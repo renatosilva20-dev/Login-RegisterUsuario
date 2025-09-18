@@ -89,14 +89,6 @@ Para rodar:
 Contribuições são bem-vindas!  
 Para contribuir:  
 
-1. Faça um **fork**  
-2. Crie uma **branch** (`git checkout -b minha-feature`)  
-3. Commit suas mudanças (`git commit -m 'feat: nova feature'`)  
-4. Faça o **push** (`git push origin minha-feature`)  
-5. Abra um **Pull Request**  
-
----
-
 ## 📜 Licença
 
 Este projeto está sob a licença **MIT**.  
